@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-02",
+ "slot": "evening",
+ "quiz": {
+  "index": 36,
+  "cert": "Linux",
+  "question": "Which command changes a file's permissions?",
+  "options": [
+   "chown",
+   "chmod",
+   "chgrp",
+   "passwd"
+  ],
+  "answer": "B",
+  "answer_text": "chmod",
+  "why": "chmod changes permissions. chown changes the owner, chgrp changes the group, passwd changes a password."
+ },
+ "callback": true,
+ "style": "Hazard",
+ "video": "pre/2026-11-02/evening.mp4",
+ "caption": "You've seen this one. Still got it?\n\nWhich command changes a file's permissions?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community, link in bio.\n\n#ITSupport #helpdesk #ITcareer #techtok",
+ "linkedin": "You've seen this one. Still got it?\n\nWhich command changes a file's permissions?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community: discord.gg/N7CzrXz4hT\n\n#ITSupport #HelpDesk #ITCareers"
+}

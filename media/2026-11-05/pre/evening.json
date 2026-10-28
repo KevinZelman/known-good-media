@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-05",
+ "slot": "evening",
+ "quiz": {
+  "index": 100,
+  "cert": "A+",
+  "question": "A laptop won't charge with its own adapter but charges fine with a coworker's identical one. What's the likely fault?",
+  "options": [
+   "The battery",
+   "The original adapter",
+   "The motherboard",
+   "The wall outlet"
+  ],
+  "answer": "B",
+  "answer_text": "The original adapter",
+  "why": "Swap in a known-good part to find the bad one: the laptop works with a good adapter, so its own adapter is the fault."
+ },
+ "callback": true,
+ "style": "Hazard",
+ "video": "pre/2026-11-05/evening.mp4",
+ "caption": "You've seen this one. Still got it?\n\nA laptop won't charge with its own adapter but charges fine with a coworker's identical one. What's the likely fault?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community, link in bio.\n\n#ITSupport #helpdesk #ITcareer #techtok",
+ "linkedin": "You've seen this one. Still got it?\n\nA laptop won't charge with its own adapter but charges fine with a coworker's identical one. What's the likely fault?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community: discord.gg/N7CzrXz4hT\n\n#ITSupport #HelpDesk #ITCareers"
+}
