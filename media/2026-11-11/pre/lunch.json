@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-11",
+ "slot": "lunch",
+ "quiz": {
+  "index": 119,
+  "cert": "Linux",
+  "question": "Which command shows the IP addresses on a Linux machine?",
+  "options": [
+   "ipconfig",
+   "ip addr",
+   "ls -ip",
+   "netstat -r"
+  ],
+  "answer": "B",
+  "answer_text": "ip addr",
+  "why": "ip addr (or ip a) lists each interface and its addresses. ipconfig is the Windows command."
+ },
+ "callback": false,
+ "style": "Receipt",
+ "video": "pre/2026-11-11/lunch.mp4",
+ "caption": "Which command shows the IP addresses on a Linux machine?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community, link in bio.\n\n#ITSupport #helpdesk #ITcareer #techtok",
+ "linkedin": "Which command shows the IP addresses on a Linux machine?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community: discord.gg/N7CzrXz4hT\n\n#ITSupport #HelpDesk #ITCareers"
+}

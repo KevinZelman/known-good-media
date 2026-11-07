@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-15",
+ "slot": "lunch",
+ "quiz": {
+  "index": 127,
+  "cert": "Microsoft 365",
+  "question": "A new hire can sign in but has no Outlook or Teams. What's usually missing?",
+  "options": [
+   "Admin rights on the PC",
+   "A static IP",
+   "A Microsoft 365 license",
+   "A new keyboard"
+  ],
+  "answer": "C",
+  "answer_text": "A Microsoft 365 license",
+  "why": "In Microsoft 365, the apps and the mailbox come with the license. Assign one in the admin center."
+ },
+ "callback": false,
+ "style": "Sticker bomb",
+ "video": "pre/2026-11-15/lunch.mp4",
+ "caption": "A new hire can sign in but has no Outlook or Teams. What's usually missing?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community, link in bio.\n\n#ITSupport #helpdesk #ITcareer #techtok",
+ "linkedin": "A new hire can sign in but has no Outlook or Teams. What's usually missing?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community: discord.gg/N7CzrXz4hT\n\n#ITSupport #HelpDesk #ITCareers"
+}

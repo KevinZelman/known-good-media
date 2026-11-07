@@ -1,0 +1,23 @@
+{
+ "date": "2026-11-13",
+ "slot": "morning",
+ "quiz": {
+  "index": 122,
+  "cert": "Microsoft 365",
+  "question": "Where should a team keep files they all work on together?",
+  "options": [
+   "A SharePoint site or Teams channel",
+   "One person's OneDrive",
+   "Email attachments",
+   "A USB drive"
+  ],
+  "answer": "A",
+  "answer_text": "A SharePoint site or Teams channel",
+  "why": "Team files belong in SharePoint (a Teams channel's Files tab is SharePoint), so they don't vanish when one person leaves."
+ },
+ "callback": false,
+ "style": "Sticker bomb",
+ "video": "pre/2026-11-13/morning.mp4",
+ "caption": "Where should a team keep files they all work on together?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community, link in bio.\n\n#ITSupport #helpdesk #ITcareer #techtok",
+ "linkedin": "Where should a team keep files they all work on together?\n\nComment your letter before the reveal. Got it? Comment ACK. Missed it? Comment NACK.\n\nFree IT mentoring community: discord.gg/N7CzrXz4hT\n\n#ITSupport #HelpDesk #ITCareers"
+}
